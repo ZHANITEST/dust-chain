@@ -1,4 +1,4 @@
-# dust-chain
+# Dust-chain
 * just for fun ;-)
 * for 'anarchy(future)' project
 
