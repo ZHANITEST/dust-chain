@@ -3,6 +3,7 @@
 	"authors": [
 		"ZHANITEST"
 	],
+	"dcrypt": "~>0.0.7",
 	"description": "smallist chain project",
 	"copyright": "Copyright © 2018, ZHANITEST",
 	"license": "LGPLv3"
